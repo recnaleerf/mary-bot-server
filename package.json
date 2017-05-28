@@ -1,0 +1,36 @@
+{
+  "name": "mary-bot-server",
+  "version": "1.0.0",
+  "description": "Middleware server for Mary Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frizz925/mary-bot-server.git"
+  },
+  "keywords": [
+    "granblue",
+    "fantasy",
+    "gbf",
+    "node",
+    "js",
+    "javascript",
+    "bot",
+    "websocket",
+    "socket",
+    "io"
+  ],
+  "author": "Izra Faturrahman <Frizz925@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frizz925/mary-bot-server/issues"
+  },
+  "homepage": "https://github.com/Frizz925/mary-bot-server#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.1",
+    "ws": "^3.0.0"
+  }
+}
